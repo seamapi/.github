@@ -8,6 +8,8 @@ Check out our [awesome open-source projects!](https://github.com/seamapi/awesome
 Or get the Seam SDK in your favorite technology:
 
 * [Python](https://github.com/seamapi/python)
+* [Go](https://github.com/seamapi/go)
+* [Java](https://github.com/seamapi/java)
 * [Javascript](https://github.com/seamapi/javascript)
 * [React](https://github.com/seamapi/react)
 * [Ruby](https://github.com/seamapi/ruby)
