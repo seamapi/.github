@@ -12,3 +12,4 @@ Or get the Seam SDK in your favorite technology:
 * [React](https://github.com/seamapi/react)
 * [Ruby](https://github.com/seamapi/ruby)
 * [PHP](https://github.com/seamapi/php)
+* [C#](https://github.com/seamapi/csharp)
